@@ -1,0 +1,12 @@
+@import "fonts";
+
+body {
+    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;   
+}
+
+.backlinks {
+  padding-bottom: 1rem;
+  margin-bottom: 2em;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}

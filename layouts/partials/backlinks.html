@@ -1,0 +1,24 @@
+{{ $current := .RelPermalink }}
+{{ $backlinks := slice }}
+
+{{ range where .Site.RegularPages "Section" "blog" }}
+  {{ if and (ne .RelPermalink $current) (findRE (printf `href="%s"` $current) .Content 1) }} 
+    {{ $backlinks = $backlinks | append . }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $backlinks) 0 }}
+  <section class="backlinks">
+    <h3>Backlinks</h3>
+
+    <ul>
+      {{ range $backlinks }}
+        <li>
+          <a href="{{ .RelPermalink }}">
+            {{ .Title }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}

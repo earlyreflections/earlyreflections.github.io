@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test on Early Reflections</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on Early Reflections</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@example.com (Samuel Ludford)</managingEditor>
+    <webMaster>me@example.com (Samuel Ludford)</webMaster>
+    <lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post 2</title>
+      <link>http://localhost:1313/blog/testpost1/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><author>me@example.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/blog/testpost1/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>
