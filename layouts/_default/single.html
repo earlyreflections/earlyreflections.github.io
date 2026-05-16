@@ -13,11 +13,23 @@
   
 </content>
 
-<p class="blog-tag-block">
+{{ with (.GetTerms "tags") }}
+  <p class="blog-tag-block">
+    <hr />
+    <h4>Tags</h4>
+    {{ range . }}
+      <a href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+    {{ end }}
+  </p>
+{{ end }}
+
+<!-- <p class="blog-tag-block">
+  <hr />
+  <h4>Tags</h4>
   {{ range (.GetTerms "tags") }}
     <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
   {{ end }}
-</p>
+</p> -->
 
 {{ $page := . }}
 {{ with (.Page.Scratch.Get "citedBibentries") }}

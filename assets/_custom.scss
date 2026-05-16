@@ -43,3 +43,17 @@ blockquote {
   padding-bottom: 1rem;
   margin-bottom: 2em;   
 }
+
+.footnotes hr + ol::before {
+  content: "Notes";
+  display: block;
+  margin-left: -2.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+li.hugo-simplecite-bibliography-list-item {
+  // list-style: none;
+  margin-left: -2.5rem;
+}
