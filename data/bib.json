@@ -1,0 +1,338 @@
+[
+  {
+    "ISBN": "9780861714919",
+    "author": [
+      {
+        "family": "Bodhi",
+        "given": "Bhikkhu"
+      }
+    ],
+    "id": "bodhi2005buddhawords",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "publisher": "Wisdom Publications",
+    "publisher-place": "Somerville, MA",
+    "title": "In the buddha’s words: An anthology of discourses from the pali canon",
+    "title-short": "In the buddha’s words",
+    "type": "book"
+  },
+  {
+    "ISBN": "9780674976812",
+    "author": [
+      {
+        "family": "Brandom",
+        "given": "Robert B."
+      }
+    ],
+    "id": "brandom2019spirit",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Harvard University Press",
+    "publisher-place": "Cambridge, MA",
+    "title": "A spirit of trust: A reading of hegel’s phenomenology",
+    "title-short": "A spirit of trust",
+    "type": "book"
+  },
+  {
+    "ISBN": "9780992848916",
+    "author": [
+      {
+        "family": "Burbea",
+        "given": "Rob"
+      }
+    ],
+    "id": "burbea2014seeing",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Hermes Amara",
+    "publisher-place": "United Kingdom",
+    "title": "Seeing that frees: Meditations on emptiness and dependent arising",
+    "title-short": "Seeing that frees",
+    "type": "book"
+  },
+  {
+    "ISBN": "9781570627523",
+    "author": [
+      {
+        "family": "Candrakīrti"
+      }
+    ],
+    "id": "candrakirti2002middleway",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Shambhala Publications",
+    "publisher-place": "Boston",
+    "title": "Introduction to the middle way: Chandrakirti’s madhyamakavatara with commentary",
+    "title-short": "Introduction to the middle way",
+    "translator": [
+      {
+        "family": "Group",
+        "given": "Padmakara Translation"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Churchland",
+        "given": "Paul M."
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Journal of philosophy",
+    "id": "churchland1985reduction",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "8-28",
+    "title": "Reduction, qualia, and the direct introspection of brain states",
+    "type": "chapter",
+    "volume": "82"
+  },
+  {
+    "ISBN": "9781611801415",
+    "author": [
+      {
+        "family": "Connelly",
+        "given": "Ben"
+      }
+    ],
+    "id": "connelly2016inside",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Shambhala Publications",
+    "publisher-place": "Boston",
+    "title": "Inside vasubandhu’s yogacara: A practitioner’s guide",
+    "title-short": "Inside vasubandhu’s yogacara",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ferraro",
+        "given": "Giuseppe"
+      }
+    ],
+    "container-title": "Asian Philosophy",
+    "id": "ferraro2013criticism",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "251-269",
+    "title": "A criticism of m. Siderits and j. L. Garfield’s \"semantic interpretation\" of nāgārjuna’s theory of two truths",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "ISBN": "9780860916464",
+    "author": [
+      {
+        "family": "Feyerabend",
+        "given": "Paul"
+      }
+    ],
+    "id": "feyerabend1975against",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "publisher": "Verso",
+    "publisher-place": "London",
+    "title": "Against method",
+    "type": "book"
+  },
+  {
+    "ISBN": "9780674954018",
+    "author": [
+      {
+        "family": "Kripke",
+        "given": "Saul A."
+      }
+    ],
+    "id": "kripke1982wittgenstein",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "publisher": "Harvard University Press",
+    "publisher-place": "Cambridge, MA",
+    "title": "Wittgenstein on rules and private language: An elementary exposition",
+    "title-short": "Wittgenstein on rules and private language",
+    "type": "book"
+  },
+  {
+    "ISBN": "9780195093360",
+    "author": [
+      {
+        "family": "Nāgārjuna"
+      }
+    ],
+    "id": "nagarjuna1995middleway",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "publisher-place": "New York",
+    "title": "The fundamental wisdom of the middle way: Nāgārjuna’s mūlamadhyamakakārikā",
+    "title-short": "The fundamental wisdom of the middle way",
+    "translator": [
+      {
+        "family": "Garfield",
+        "given": "Jay L."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "ISBN": "9780140445145",
+    "author": [
+      {
+        "family": "Nietzsche",
+        "given": "Friedrich"
+      }
+    ],
+    "id": "nietzsche1895antichrist",
+    "issued": {
+      "date-parts": [
+        [
+          1895
+        ]
+      ]
+    },
+    "publisher": "Penguin Books",
+    "publisher-place": "London",
+    "title": "The antichrist",
+    "translator": [
+      {
+        "family": "Hollingdale",
+        "given": "R. J."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "ISBN": "9780754635292",
+    "author": [
+      {
+        "family": "Siderits",
+        "given": "Mark"
+      }
+    ],
+    "id": "siderits2007buddhism",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "Ashgate",
+    "publisher-place": "Aldershot, UK",
+    "title": "Buddhism as philosophy: An introduction",
+    "title-short": "Buddhism as philosophy",
+    "type": "book"
+  },
+  {
+    "ISBN": "9780824824235",
+    "author": [
+      {
+        "family": "Waldron",
+        "given": "William S."
+      }
+    ],
+    "id": "waldron2003mindsense",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "University of Hawai’i Press",
+    "publisher-place": "Honolulu",
+    "title": "Making sense of mind-only: Why yogācāra buddhism matters",
+    "title-short": "Making sense of mind-only",
+    "type": "book"
+  },
+  {
+    "ISBN": "9780631231271",
+    "author": [
+      {
+        "family": "Wittgenstein",
+        "given": "Ludwig"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Anscombe",
+        "given": "G. E. M."
+      },
+      {
+        "family": "Rhees",
+        "given": "R."
+      },
+      {
+        "dropping-particle": "von",
+        "family": "Wright",
+        "given": "G. H."
+      }
+    ],
+    "id": "wittgenstein1953philosophical",
+    "issued": {
+      "date-parts": [
+        [
+          1953
+        ]
+      ]
+    },
+    "publisher": "Blackwell",
+    "publisher-place": "Oxford",
+    "title": "Philosophical investigations",
+    "type": "book"
+  }
+]

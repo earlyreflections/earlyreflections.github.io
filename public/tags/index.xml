@@ -9,61 +9,13 @@
     <managingEditor>sam.earlyreflections@gmail.com (Samuel Ludford)</managingEditor>
     <webMaster>sam.earlyreflections@gmail.com (Samuel Ludford)</webMaster>
     <copyright>© 2025–2026 Samuel Ludford</copyright>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alterity</title>
-      <link>http://localhost:1313/tags/alterity/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/tags/alterity/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Anicca</title>
-      <link>http://localhost:1313/tags/anicca/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/tags/anicca/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
     <item>
       <title>Craving</title>
       <link>http://localhost:1313/tags/craving/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
       <guid>http://localhost:1313/tags/craving/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Emptiness</title>
-      <link>http://localhost:1313/tags/emptiness/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/tags/emptiness/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Hegel</title>
-      <link>http://localhost:1313/tags/hegel/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/tags/hegel/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Kant</title>
-      <link>http://localhost:1313/tags/kant/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/tags/kant/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Nagarjuna</title>
-      <link>http://localhost:1313/tags/nagarjuna/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/tags/nagarjuna/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -84,10 +36,42 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
+      <title>Hegel</title>
+      <link>http://localhost:1313/tags/hegel/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/tags/hegel/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Nagarjuna</title>
+      <link>http://localhost:1313/tags/nagarjuna/</link>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/tags/nagarjuna/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Anicca</title>
+      <link>http://localhost:1313/tags/anicca/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/tags/anicca/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
       <title>Bodhisattva Ideal</title>
       <link>http://localhost:1313/tags/bodhisattva-ideal/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
       <guid>http://localhost:1313/tags/bodhisattva-ideal/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Emptiness</title>
+      <link>http://localhost:1313/tags/emptiness/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/tags/emptiness/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -112,6 +96,14 @@
       <link>http://localhost:1313/tags/yogacara/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
       <guid>http://localhost:1313/tags/yogacara/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Alterity</title>
+      <link>http://localhost:1313/tags/alterity/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/tags/alterity/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -184,6 +176,14 @@
       <link>http://localhost:1313/tags/awakening/</link>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
       <guid>http://localhost:1313/tags/awakening/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Kant</title>
+      <link>http://localhost:1313/tags/kant/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/tags/kant/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

@@ -19,6 +19,14 @@
   {{ end }}
 </p>
 
+{{ $page := . }}
+{{ with (.Page.Scratch.Get "citedBibentries") }}
+  <hr />
+  <h4>References</h4>
+  {{ partial "print-references.html" $page }}  
+{{ end }}
+
+
 <hr />
 {{ partial "backlinks.html" . }}
 

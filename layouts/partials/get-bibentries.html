@@ -1,0 +1,44 @@
+{{ $bibEntries := "" }}
+{{ $filename := hugo.Data.bib }}
+
+{{ with try (hugo.Data.bib ) }}
+ {{ with .Err }}
+        {{ errorf "%q Could not find json file." $filename}}
+    {{ else with .Value }}
+        {{ $bibEntries = hugo.Data.bib }}
+ {{ end }}
+{{ end }}
+
+<!-- Parse the bib.json file -->
+{{ $bibliography := "" }}
+{{ if $bibEntries }}
+    {{ $sorting := .Page.Params.bibliography_sort }}
+
+    {{ if (not $sorting)}}
+        {{ $bibliography = $bibEntries }}
+    {{ else }}
+        {{ $tagged_entries := slice }}
+        {{ range $bibentry := $bibEntries }}
+            {{ $tagged_entries = $tagged_entries | append
+                (dict "auth" (index (index (index $bibentry "author") 0) "literal")
+                      "entry" $bibentry
+                )
+            }}
+        {{ end }}
+
+        {{ $sorted_entries := slice }}
+        {{ range $entry:= sort $tagged_entries "auth" "asc" }}
+            {{ range $k, $v := $entry }}
+                {{ if eq $k "entry" }}
+                    {{ $sorted_entries = $sorted_entries | append $v }}
+                {{end}}
+            {{ end }}
+        {{ end }}
+        {{ $bibliography = $sorted_entries }}
+    {{ end }}
+
+{{ else }}
+    {{- errorf "No valid bib.json file was found at position: %q" .Page.File.Dir -}}
+{{ end }}
+
+{{ return $bibliography }}

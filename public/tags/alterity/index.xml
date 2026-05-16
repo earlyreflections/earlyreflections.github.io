@@ -9,20 +9,8 @@
     <managingEditor>sam.earlyreflections@gmail.com (Samuel Ludford)</managingEditor>
     <webMaster>sam.earlyreflections@gmail.com (Samuel Ludford)</webMaster>
     <copyright>© 2025–2026 Samuel Ludford</copyright>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/alterity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Post</title>
-      <link>http://localhost:1313/blog/test/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/blog/test/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s test a bunch of different styles and shortcodes in this post.&lt;/p&gt;&#xA;&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;&#xA;&lt;p&gt;And some words to go with it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;this-is-a-subheading&#34;&gt;This is a subheading&lt;/h2&gt;</description>
-      <content:encoded><![CDATA[<p>Let&rsquo;s test a bunch of different styles and shortcodes in this post.</p>
-<h1 id="this-is-a-heading">This is a heading</h1>
-<p>And some words to go with it.</p>
-<h2 id="this-is-a-subheading">This is a subheading</h2>
-]]></content:encoded>
-    </item>
     <item>
       <title>The Weird Materialism of Early Buddhism</title>
       <link>http://localhost:1313/blog/the_weird_materialism_of_early_buddhism/</link>

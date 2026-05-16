@@ -1,9 +1,10 @@
 # Basic config
 baseURL = "https://earlyreflections.github.io"
-theme = "hugo-bearcub"
+theme = [ 'hugo-bearcub', 'hugo-simplecite']
 defaultContentLanguage = "en"
 copyright = "© 2025–2026 Samuel Ludford"
 title = "Early Reflections"
+ignoreFiles = ['references.bib']
 
 
 [[menu.main]]

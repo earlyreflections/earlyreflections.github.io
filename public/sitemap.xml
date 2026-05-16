@@ -3,41 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/alterity/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/anicca/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/bibliography/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/craving/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/emptiness/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hegel/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/kant/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nagarjuna/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/test/</loc>
-    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/note_on_the_tension_theory_of_craving/</loc>
+    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/insight/</loc>
@@ -49,13 +30,25 @@
     <loc>http://localhost:1313/tags/abhidharma/</loc>
     <lastmod>2026-02-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/hegel/</loc>
+    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nagarjuna/</loc>
+    <lastmod>2026-02-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/note_on_immanence/</loc>
     <lastmod>2026-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/akrasia_and_the_bodhisattva_ideal/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/anicca/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/bodhisattva-ideal/</loc>
+    <lastmod>2026-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/emptiness/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wittgenstein/</loc>
@@ -72,6 +65,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/yogacara/</loc>
     <lastmod>2025-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/alterity/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/materialism/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
@@ -120,6 +116,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/craving_delusion_and_unattached_desire/</loc>
     <lastmod>2025-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kant/</loc>
+    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/preliminary_reflections_on_rebirth/</loc>
     <lastmod>2025-09-11T00:00:00+00:00</lastmod>
