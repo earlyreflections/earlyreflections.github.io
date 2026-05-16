@@ -12,12 +12,14 @@
   {{ .Content }}
   
 </content>
+
 <p class="blog-tag-block">
   {{ range (.GetTerms "tags") }}
     <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
   {{ end }}
 </p>
 
+<hr />
 {{ partial "backlinks.html" . }}
 
 {{ if not .Params.hideReply }}
