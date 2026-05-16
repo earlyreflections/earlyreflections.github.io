@@ -6,8 +6,6 @@ tags = [
 ]
 +++
 
-[Test backlink]({{< relref "blog/two_flavours_of_nonduality.md" >}})
-
 While all of the three marks of existence present their own conceptual difficulties, anicca (impermanence) has always seemed to me the most slippery, particularly where insight is concern. This is not because it is harder to comprehend than dukkha or anattā (unsatisfactoriness or no-self), but for the opposite reason that it is almost too obvious. We already know that relationships end, that we will die some day, that whims come and go, that tectonic plates drift and that a clay pot left in the ground for a few thousand years will crumble and decay. We also know that if we watch something long enough we will see it change. What, then, can insight into impermanence really consist in?
 
 One thought is that insight into impermanence is not so much about observing elements of experience as impermanent, but about observing the way that our mind imbues the objects of experience with artificial permanence. Insight will thus consist, at least in part, of the recognition of a gap between the way we intuitively treat things and the way we know them to be. It could be argued that those of us born into the post-scientific world with our knowledge of thermodynamics, evolution by natural selection and cosmic expansion, are better placed to grasp impermanence than anyone has ever been. But this would just mean that the persistence of those default attitudes, which represent the world as infused with false permanence, should be all the more surprising—an even more fertile ground for insight.
