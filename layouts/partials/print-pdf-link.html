@@ -1,0 +1,13 @@
+{{ warnf "print pdf partial" }}
+{{ $bibentryId := .bibentryId }}
+{{ warnf "Bib ID: %s" $bibentryId }}
+
+{{ $pdfPath := print "static/pdf/" $bibentryId ".pdf" }}
+
+{{ warnf "pdfPath: %s" $pdfPath }}
+{{ if fileExists $pdfPath }}
+  {{ warnf "File exists" }}
+  [<a href="/pdf/{{ $bibentryId }}.pdf">PDF</a>]
+{{ else }}
+    {{ warnf "No file exists" }}
+{{ end }}
