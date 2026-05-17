@@ -124,6 +124,14 @@
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
+      <title>Kant</title>
+      <link>http://localhost:1313/tags/kant/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
+      <guid>http://localhost:1313/tags/kant/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
       <title>Vasubandhu</title>
       <link>http://localhost:1313/tags/vasubandhu/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
@@ -176,14 +184,6 @@
       <link>http://localhost:1313/tags/awakening/</link>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
       <guid>http://localhost:1313/tags/awakening/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Kant</title>
-      <link>http://localhost:1313/tags/kant/</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate><author>sam.earlyreflections@gmail.com (Samuel Ludford)</author>
-      <guid>http://localhost:1313/tags/kant/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
