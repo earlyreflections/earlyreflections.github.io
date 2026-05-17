@@ -44,7 +44,7 @@
 
 {{ if not .Params.hideReply }}
 {{ with .Site.Params.author.email }}
-  <p>
+  <p  class="email-reply">
     <a href='mailto:{{ . }}?subject={{ i18n "email-subject" }}"{{ default $.Site.Title $.Page.Title }}"'>
       {{ i18n "email-reply" }} ↪
     </a>

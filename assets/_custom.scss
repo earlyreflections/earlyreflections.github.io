@@ -39,11 +39,6 @@ blockquote {
     color: $font-color;
 }
 
-.backlinks {
-  padding-bottom: 1rem;
-  margin-bottom: 2em;   
-}
-
 .footnotes hr + ol::before {
   content: "Notes";
   display: block;
@@ -56,4 +51,8 @@ blockquote {
 li.hugo-simplecite-bibliography-list-item {
   // list-style: none;
   margin-left: -2.5rem;
+}
+
+.email-reply {
+  margin-top: 3rem;
 }
